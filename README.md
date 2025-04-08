@@ -104,7 +104,6 @@ $5 million
 
 ---
 
-*Prepared by: [Your Name or Cyber Risk Practice Group]*  
+**Prepared by:** Eric Gomez  
 *For educational and informational purposes only.*
-
 ---
